@@ -1,0 +1,13 @@
+$ git log
+commit 45e67b938793c8291786c2d412795477676c73ed (HEAD -> logging, origin/master, master)
+Author: unknown <blagojcho.ivanov@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:22:44 2018 +0100
+
+    modify l1.txt
+
+commit 865790723aec75e547047baeb82257fe7e73138f
+Author: unknown <blagojcho.ivanov@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:19:15 2018 +0100
+
+    Initial commit
+
