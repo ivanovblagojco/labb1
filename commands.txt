@@ -1,0 +1,19 @@
+x1.Vekje instalirano
+2. git init, pa potoa mkdir lab1, pa potoa cd lab1
+3. nano l1.txt
+4. Blagojco Ivanov 161073
+5. git add l1.txt, pa potoa git commit -m "Initial commit"
+6. nano l1.txt i dodavame KNI vo vtoriot red
+7. git add l1.txt pa potoa git commit -m "modified l1.txt"
+8. Online kreirav nov repozitorium na GITHUB
+9. git remote add origin https://github.com/ivanovblagojco/labb1.git (labb1 e repozitoriumot na GITHUB)
+10. git push -u origin master
+11. git checkout -- l1.txt
+12. git branch logging
+13. git checkout logging , pa potoa git log komandata ja zapishuvam vo nano log.txt
+14. najprvo se dodava vo staging area so git add log.txt, pa potoa so git commit -m "log.txt added" se komitira. Na kraj
+se pishuva git push -u origin logging i grankata se kreira i na GITHUB
+15. git checkout master pa potoa git merge logging. Na kraj git push -u origin master za da se postavi na GITHUB
+16. git branch allcomands
+17. najprvo git checkout allcomands, pa potoa nano commands.txt i tamu gi dodavame komandite
+18. 
